@@ -37,7 +37,6 @@ int main(void){
 1. 用于快速计算两个数字的最大公约数
 
 2. 用于快速求解 **`a*x + b*y = 1`** 的一组整数解
-
    ```
    证明过程：
    gcd(a,b) = gcd(b,a%b)
@@ -100,7 +99,7 @@ int main(void){
 
 1. 问题描述：
 
-   ![](/home/young/图片/递归1-指数型.png)
+   ![image]https://github.com/ShakeYoung/markdown/blob/master/%E9%80%92%E5%BD%921-%E6%8C%87%E6%95%B0%E5%9E%8B.png
 
 
 
